@@ -1,0 +1,16 @@
+.display-ecology{
+    width: 100%;
+  }
+  .display-ecology img{
+    width: 100%;
+  }
+  .display-ecology-text .caracteristicas{
+    color: #ffffff !important;
+  }
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    justify-content: center;
+}
